@@ -1,1 +1,1 @@
-# Supermarket
+# Analysis of supermaret dataset.
